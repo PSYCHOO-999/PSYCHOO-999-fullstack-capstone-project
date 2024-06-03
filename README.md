@@ -1,1 +1,1 @@
-# PSYCHOO-999-fullstack-capstone-project
+# coding-project-template

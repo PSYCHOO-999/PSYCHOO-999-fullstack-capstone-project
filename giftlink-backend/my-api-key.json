@@ -1,0 +1,18 @@
+{
+	"id": "ApiKey-3c36bd33-fe93-4607-aa54-20debcf8ef22",
+	"crn": "crn:v1:bluemix:public:iam-identity::a/d5fb33ab82aa4140ac390788cef1042eF-2829765F::apikey:ApiKey-3c36bd33-fe93-4607-aa54-20debcf8ef22",
+	"iam_id": "IBMid-691000EP3B",
+	"account_id": "d5fb33ab82aa4140ac390788cef1042e",
+	"name": "my-api-key",
+	"description": "API key for pushing Docker images",
+	"apikey": "aUcvTQYVhKJRawtspGaHm8JmaY81LYXWDSEk5F71zd4a",
+	"locked": false,
+	"entity_tag": "1-492ba36b4e17e37b6a70db1901dd5aac",
+	"created_at": "2024-05-31T03:04+0000",
+	"created_by": "IBMid-691000EP3B",
+	"modified_at": "2024-05-31T03:04+0000",
+	"action_when_leaked": "disable",
+	"support_sessions": false,
+	"disabled": false,
+	"leaked": false
+}
